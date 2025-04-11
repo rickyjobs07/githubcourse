@@ -1,4 +1,3 @@
-# githubcourse
-This repository was created to practice.
+# Proyecto Final Git y GitHub
 
-Scroll down to the Commit changes.
+Este proyecto demuestra el uso de Git y GitHub a través de varias tareas prácticas.
